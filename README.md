@@ -1,4 +1,4 @@
-This is a modified version of [this plugin]. It has support for grids and the latest version of ExpressionEngine.
+This is a modified version of [this plugin](https://github.com/rsanchez/json). It has support for grids and the latest version of ExpressionEngine.
 
 ## Installation
 
